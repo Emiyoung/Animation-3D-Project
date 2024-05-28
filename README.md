@@ -9,4 +9,8 @@
 - Microsoft Word
 - MIcrosoft Power Bi
 - Phython 
-- SQL  
+- SQL
+```
+GOOGLE QUERY SHEEET
+SELECT*FROM TABLE 1
+WHERE CONDITION = NET
