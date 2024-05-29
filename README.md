@@ -23,6 +23,9 @@ WHERE CONDITION = NET
 |---------|---------|---------|
 |Data 1|Data 2|Date 3|
 
-
 ---
+
+
+![]{DELE}
+
 
